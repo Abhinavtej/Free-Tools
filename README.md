@@ -2,9 +2,8 @@
 
 ## Live Demo
 
-* [QR Code Generator](https://abhinavtej.github.io/Free-Tools/QR-Code-Generator target="_blank")
-* [Currency Calulator](https://abhinavtej.github.io/Free-Tools/Currency-Calulator target="_blank")
-* [Visit OpenAI](https://www.openai.com "OpenAI Website" target="_blank")
+* [QR Code Generator](https://abhinavtej.github.io/Free-Tools/QR-Code-Generator)
+* [Currency Calulator](https://abhinavtej.github.io/Free-Tools/Currency-Calulator)
 
 ## Overview
 
