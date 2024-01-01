@@ -3,7 +3,7 @@
 ## Live Demo
 
 * [QR Code Generator](https://abhinavtej.github.io/Free-Tools/QR-Code-Generator)
-* [Currency Calculator](https://abhinavtej.github.io/Free-Tools/Currency-Calculator)
+* [Currency Convertor](https://abhinavtej.github.io/Free-Tools/Currency-Convertor)
 
 ## Overview
 
