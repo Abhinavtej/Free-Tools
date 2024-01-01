@@ -1,5 +1,10 @@
 # Free Tools
 
+## Live Demo
+
+* [QR Code Generator](https://abhinavtej.github.io/Free-Tools/QR-Code-Generator)
+* [Currency Calulator](https://abhinavtej.github.io/Free-Tools/Currency-Calulator)
+
 ## Overview
 
 This repository is dedicated to providing a collection of free tools that aim to benefit everyone. Whether you're a developer, designer, or an enthusiast, these tools are designed to be accessible and useful for various purposes.
