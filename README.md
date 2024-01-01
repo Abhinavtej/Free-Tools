@@ -1,4 +1,4 @@
-# [Free Tools]
+# Free Tools
 
 ## Overview
 
